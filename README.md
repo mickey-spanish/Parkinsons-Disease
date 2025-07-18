@@ -1,1 +1,7 @@
-# Parkinson-s-Disease
+# Parkinsons-Disease
+
+This project aims to detect Parkinson’s Disease (PD) using machine learning models applied to voice signal features. Parkinson’s is a progressive neurological disorder that affects movement and communication, making early and accurate diagnosis critical to improving patient outcomes. Since PD symptoms often resemble those of normal aging or other conditions, this project explores voice-based biomarkers as a non-invasive, cost-effective diagnostic alternative.
+
+Using the DB_Voice_Features.csv dataset—which contains multiple vocal recordings from both healthy individuals and PD patients—we will apply automated machine learning (AutoML) tools to build predictive models such as Decision Trees and Random Forests. The project will begin with exploratory data analysis (EDA) to understand the structure, distributions, and patterns in the dataset. Next, class imbalance (fewer healthy controls vs. PD patients) will be addressed using appropriate techniques to ensure fair and unbiased model training.
+
+Finally, we will use model explainability tools such as SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable Model-Agnostic Explanations) to identify which voice features most influence the classification. Model performance will be evaluated using various metrics (e.g., accuracy, precision, recall, F1-score), and results will be compared to existing studies to assess clinical relevance and reliability. This project not only builds a predictive model but also helps interpret and justify the predictions in a medically meaningful way.
