@@ -1,4 +1,4 @@
-# Predicting Parkinson's Disease usinf Voice Signal Features
+# Predicting Parkinson's Disease using Voice Signal Features
 
 This project aims to detect Parkinson’s Disease (PD) using machine learning models applied to voice signal features. Parkinson’s is a progressive neurological disorder that affects movement and communication, making early and accurate diagnosis critical to improving patient outcomes. Since PD symptoms often resemble those of normal aging or other conditions, this project explores voice-based biomarkers as a non-invasive, cost-effective diagnostic alternative.
 
